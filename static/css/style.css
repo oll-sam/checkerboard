@@ -1,0 +1,29 @@
+h1{
+    margin: auto;
+    width: 30%;
+    text-align: center;
+    color: black;
+    background-color: red;
+    margin-bottom: 30px;
+}
+#box{
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+}
+#container{
+    display: flex;
+
+}
+#red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+}
+#black{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
